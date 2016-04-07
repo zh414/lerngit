@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 just solve a question.
+Git tracks changes.
 Creating a branch just for testing.
